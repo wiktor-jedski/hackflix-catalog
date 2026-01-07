@@ -14,9 +14,11 @@
       "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
       "magnet_link": "magnet:?xt=urn:btih:1234567890abcdef1234567890abcdef12345678&dn=Inception.2010.1080p.BluRay.x264&tr=udp://tracker.example.com:80",
       "file_size": 2147483648,
-      "subtitle_languages": [
-        "en"
-      ],
+      "subtitle": {
+        "file_id": "5054937",
+        "language": "en",
+        "needs_translation": true
+      },
       "poster_url": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
       "imdb_id": "tt1375666",
       "tmdb_id": 27205,
@@ -35,9 +37,11 @@
       "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
       "magnet_link": "magnet:?xt=urn:btih:abcdef1234567890abcdef1234567890abcdef12&dn=The.Shawshank.Redemption.1994.1080p&tr=udp://tracker.example.com:80",
       "file_size": 2516582400,
-      "subtitle_languages": [
-        "en"
-      ],
+      "subtitle": {
+        "file_id": "1234567",
+        "language": "en",
+        "needs_translation": true
+      },
       "poster_url": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
       "imdb_id": "tt0111161",
       "tmdb_id": 278,
@@ -57,9 +61,11 @@
       "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
       "magnet_link": "magnet:?xt=urn:btih:fedcba0987654321fedcba0987654321fedcba09&dn=The.Matrix.1999.1080p.BluRay&tr=udp://tracker.example.com:80",
       "file_size": 1932735283,
-      "subtitle_languages": [
-        "en"
-      ],
+      "subtitle": {
+        "file_id": "2345678",
+        "language": "en",
+        "needs_translation": true
+      },
       "poster_url": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
       "imdb_id": "tt0133093",
       "tmdb_id": 603,
@@ -80,9 +86,11 @@
       "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
       "magnet_link": "magnet:?xt=urn:btih:9876543210fedcba9876543210fedcba98765432&dn=Interstellar.2014.1080p.BluRay.x264&tr=udp://tracker.example.com:80",
       "file_size": 3221225472,
-      "subtitle_languages": [
-        "en"
-      ],
+      "subtitle": {
+        "file_id": "3456789",
+        "language": "en",
+        "needs_translation": true
+      },
       "poster_url": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
       "imdb_id": "tt0816692",
       "tmdb_id": 157336,
@@ -103,9 +111,11 @@
       "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests.",
       "magnet_link": "magnet:?xt=urn:btih:0123456789abcdef0123456789abcdef01234567&dn=The.Dark.Knight.2008.1080p&tr=udp://tracker.example.com:80",
       "file_size": 2684354560,
-      "subtitle_languages": [
-        "en"
-      ],
+      "subtitle": {
+        "file_id": "4567890",
+        "language": "pl",
+        "needs_translation": false
+      },
       "poster_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
       "imdb_id": "tt0468569",
       "tmdb_id": 155,
@@ -141,37 +151,72 @@
             {
               "episode_number": 1,
               "title": "Pilot",
-              "runtime": 58
+              "runtime": 58,
+              "subtitle": {
+                "file_id": "5678901",
+                "language": "en",
+                "needs_translation": true
+              }
             },
             {
               "episode_number": 2,
               "title": "Cat's in the Bag...",
-              "runtime": 48
+              "runtime": 48,
+              "subtitle": {
+                "file_id": "5678902",
+                "language": "en",
+                "needs_translation": true
+              }
             },
             {
               "episode_number": 3,
               "title": "...And the Bag's in the River",
-              "runtime": 48
+              "runtime": 48,
+              "subtitle": {
+                "file_id": "5678903",
+                "language": "en",
+                "needs_translation": true
+              }
             },
             {
               "episode_number": 4,
               "title": "Cancer Man",
-              "runtime": 48
+              "runtime": 48,
+              "subtitle": {
+                "file_id": "5678904",
+                "language": "en",
+                "needs_translation": true
+              }
             },
             {
               "episode_number": 5,
               "title": "Gray Matter",
-              "runtime": 48
+              "runtime": 48,
+              "subtitle": {
+                "file_id": "5678905",
+                "language": "en",
+                "needs_translation": true
+              }
             },
             {
               "episode_number": 6,
               "title": "Crazy Handful of Nothin'",
-              "runtime": 48
+              "runtime": 48,
+              "subtitle": {
+                "file_id": "5678906",
+                "language": "en",
+                "needs_translation": true
+              }
             },
             {
               "episode_number": 7,
               "title": "A No-Rough-Stuff-Type Deal",
-              "runtime": 48
+              "runtime": 48,
+              "subtitle": {
+                "file_id": "5678907",
+                "language": "en",
+                "needs_translation": true
+              }
             }
           ]
         },
