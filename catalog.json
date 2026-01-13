@@ -1,304 +1,126 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2026-01-07T22:28:39Z",
-  "movies": [
+  "version": 1,
+  "timestamp": "2024-12-15T14:30:00Z",
+  "items": [
     {
-      "id": "movie_27205",
-      "title": "Inception",
-      "year": 2010,
-      "genre": [
-        "Action",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
-      "magnet_link": "magnet:?xt=urn:btih:224BF45881252643DFC2E71ABC7B2660A21C68C4&dn=Inception+%282010%29+1080p+BrRip+x264+-+1.85GB+-+YIFY+&tr=http%3A%2F%2Finferno.demonoid.me%3A3414%2Fannounce&tr=udp%3A%2F%2Ftracker.yify-torrents.com%2Fannounce&tr=udp%3A%2F%2Ftracker.1337x.org%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.yify-torrents.com%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
-      "file_size": 2147483648,
-      "subtitle": {
-        "file_id": "7283798",
-        "language": "pl",
-        "needs_translation": false
-      },
-      "poster_url": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
-      "imdb_id": "tt1375666",
-      "tmdb_id": 27205,
-      "runtime": 148,
-      "video_quality": "1080p",
-      "video_codec": "H.264",
-      "audio_codec": "AAC"
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "type": "movie",
+      "title": "Big Buck Bunny",
+      "genres": "Animation, Comedy, Family",
+      "magnet": "magnet:?xt=urn:btih:dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c&dn=Big+Buck+Bunny",
+      "poster_url": "https://example.com/posters/big-buck-bunny.jpg",
+      "subtitle_id": 123456,
+      "translation_needed": true
     },
     {
-      "id": "movie_278",
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "genre": [
-        "Drama"
-      ],
-      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "magnet_link": "magnet:?xt=urn:btih:abcdef1234567890abcdef1234567890abcdef12&dn=The.Shawshank.Redemption.1994.1080p&tr=udp://tracker.example.com:80",
-      "file_size": 2516582400,
-      "subtitle": {
-        "file_id": "1234567",
-        "language": "en",
-        "needs_translation": true
-      },
-      "poster_url": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-      "imdb_id": "tt0111161",
-      "tmdb_id": 278,
-      "runtime": 142,
-      "video_quality": "1080p",
-      "video_codec": "H.264",
-      "audio_codec": "AAC"
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "type": "movie",
+      "title": "Sintel",
+      "genres": "Animation, Fantasy, Action",
+      "magnet": "magnet:?xt=urn:btih:08ada5a7a6183aae1e09d831df6748d566095a10&dn=Sintel",
+      "poster_url": "https://example.com/posters/sintel.jpg",
+      "subtitle_id": null,
+      "translation_needed": false
     },
     {
-      "id": "movie_603",
-      "title": "The Matrix",
-      "year": 1999,
-      "genre": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-      "magnet_link": "magnet:?xt=urn:btih:fedcba0987654321fedcba0987654321fedcba09&dn=The.Matrix.1999.1080p.BluRay&tr=udp://tracker.example.com:80",
-      "file_size": 1932735283,
-      "subtitle": {
-        "file_id": "2345678",
-        "language": "en",
-        "needs_translation": true
-      },
-      "poster_url": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-      "imdb_id": "tt0133093",
-      "tmdb_id": 603,
-      "runtime": 136,
-      "video_quality": "1080p",
-      "video_codec": "H.264",
-      "audio_codec": "DTS"
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "type": "movie",
+      "title": "Tears of Steel",
+      "genres": "Sci-Fi, Action, Drama",
+      "magnet": "magnet:?xt=urn:btih:209c8226b299b308beaf2b9cd3fb49212dbd13ec&dn=Tears+of+Steel",
+      "poster_url": "https://example.com/posters/tears-of-steel.jpg",
+      "subtitle_id": 789012,
+      "translation_needed": true
     },
     {
-      "id": "movie_157336",
-      "title": "Interstellar",
-      "year": 2014,
-      "genre": [
-        "Adventure",
-        "Drama",
-        "Sci-Fi"
-      ],
-      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-      "magnet_link": "magnet:?xt=urn:btih:89599BF4DC369A3A8ECA26411C5CCF922D78B486&dn=Interstellar+%282014%29+1080p+BrRip+x264+-+YIFY&tr=udp%3A%2F%2Ftracker.yify-torrents.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Ftracker.istole.it%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2F9.rarbg.com%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
-      "file_size": 3221225472,
-      "subtitle": {
-        "file_id": "1015895",
-        "language": "pl",
-        "needs_translation": false
-      },
-      "poster_url": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-      "imdb_id": "tt0816692",
-      "tmdb_id": 157336,
-      "runtime": 169,
-      "video_quality": "1080p",
-      "video_codec": "H.264",
-      "audio_codec": "DTS"
-    },
-    {
-      "id": "movie_155",
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genre": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests.",
-      "magnet_link": "magnet:?xt=urn:btih:0123456789abcdef0123456789abcdef01234567&dn=The.Dark.Knight.2008.1080p&tr=udp://tracker.example.com:80",
-      "file_size": 2684354560,
-      "subtitle": {
-        "file_id": "4567890",
-        "language": "pl",
-        "needs_translation": false
-      },
-      "poster_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-      "imdb_id": "tt0468569",
-      "tmdb_id": 155,
-      "runtime": 152,
-      "video_quality": "1080p",
-      "video_codec": "H.264",
-      "audio_codec": "AC3"
-    }
-  ],
-  "series": [
-    {
-      "id": "series_1396",
-      "title": "Breaking Bad",
-      "year": 2008,
-      "genre": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
-      "imdb_id": "tt0903747",
-      "tmdb_id": 1396,
+      "id": "550e8400-e29b-41d4-a716-446655440010",
+      "type": "series",
+      "title": "Blender Open Movies",
+      "genres": "Documentary, Animation, Technology",
+      "poster_url": "https://example.com/posters/blender-open-movies.jpg",
       "seasons": [
         {
           "season_number": 1,
-          "magnet_link": "magnet:?xt=urn:btih:abcd1234abcd1234abcd1234abcd1234abcd1234&dn=Breaking.Bad.S01.1080p.BluRay&tr=udp://tracker.example.com:80",
-          "file_size": 5368709120,
-          "episode_count": 7,
-          "year": 2008,
-          "video_quality": "1080p",
+          "magnet": "magnet:?xt=urn:btih:abc123season1&dn=Blender+Open+Movies+S01",
           "episodes": [
             {
-              "episode_number": 1,
-              "title": "Pilot",
-              "runtime": 58,
-              "subtitle": {
-                "file_id": "5678901",
-                "language": "en",
-                "needs_translation": true
-              }
+              "number": 1,
+              "title": "The Making of Big Buck Bunny",
+              "subtitle_id": 100001,
+              "translation_needed": true
             },
             {
-              "episode_number": 2,
-              "title": "Cat's in the Bag...",
-              "runtime": 48,
-              "subtitle": {
-                "file_id": "5678902",
-                "language": "en",
-                "needs_translation": true
-              }
+              "number": 2,
+              "title": "The Making of Sintel",
+              "subtitle_id": 100002,
+              "translation_needed": true
             },
             {
-              "episode_number": 3,
-              "title": "...And the Bag's in the River",
-              "runtime": 48,
-              "subtitle": {
-                "file_id": "5678903",
-                "language": "en",
-                "needs_translation": true
-              }
-            },
-            {
-              "episode_number": 4,
-              "title": "Cancer Man",
-              "runtime": 48,
-              "subtitle": {
-                "file_id": "5678904",
-                "language": "en",
-                "needs_translation": true
-              }
-            },
-            {
-              "episode_number": 5,
-              "title": "Gray Matter",
-              "runtime": 48,
-              "subtitle": {
-                "file_id": "5678905",
-                "language": "en",
-                "needs_translation": true
-              }
-            },
-            {
-              "episode_number": 6,
-              "title": "Crazy Handful of Nothin'",
-              "runtime": 48,
-              "subtitle": {
-                "file_id": "5678906",
-                "language": "en",
-                "needs_translation": true
-              }
-            },
-            {
-              "episode_number": 7,
-              "title": "A No-Rough-Stuff-Type Deal",
-              "runtime": 48,
-              "subtitle": {
-                "file_id": "5678907",
-                "language": "en",
-                "needs_translation": true
-              }
+              "number": 3,
+              "title": "The Making of Tears of Steel",
+              "subtitle_id": 100003,
+              "translation_needed": false
             }
           ]
         },
         {
           "season_number": 2,
-          "magnet_link": "magnet:?xt=urn:btih:dcba4321dcba4321dcba4321dcba4321dcba4321&dn=Breaking.Bad.S02.1080p.BluRay&tr=udp://tracker.example.com:80",
-          "file_size": 8589934592,
-          "episode_count": 13,
-          "year": 2009,
-          "video_quality": "1080p"
+          "magnet": "magnet:?xt=urn:btih:def456season2&dn=Blender+Open+Movies+S02",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Elephants Dream Retrospective",
+              "subtitle_id": 200001,
+              "translation_needed": true
+            },
+            {
+              "number": 2,
+              "title": "Spring Documentary",
+              "subtitle_id": null,
+              "translation_needed": false
+            }
+          ]
         }
       ]
     },
     {
-      "id": "series_1399",
-      "title": "Game of Thrones",
-      "year": 2011,
-      "genre": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
-      "imdb_id": "tt0944947",
-      "tmdb_id": 1399,
+      "id": "550e8400-e29b-41d4-a716-446655440020",
+      "type": "series",
+      "title": "Open Source Cinema",
+      "genres": "Documentary, Education",
+      "poster_url": "https://example.com/posters/open-source-cinema.jpg",
       "seasons": [
         {
           "season_number": 1,
-          "magnet_link": "magnet:?xt=urn:btih:1111222233334444555566667777888899990000&dn=Game.of.Thrones.S01.1080p&tr=udp://tracker.example.com:80",
-          "file_size": 10737418240,
-          "episode_count": 10,
-          "year": 2011,
-          "video_quality": "1080p"
-        }
-      ]
-    },
-    {
-      "id": "series_66732",
-      "title": "Stranger Things",
-      "year": 2016,
-      "genre": [
-        "Drama",
-        "Fantasy",
-        "Horror",
-        "Mystery"
-      ],
-      "description": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
-      "poster_url": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
-      "imdb_id": "tt4574334",
-      "tmdb_id": 66732,
-      "seasons": [
-        {
-          "season_number": 1,
-          "magnet_link": "magnet:?xt=urn:btih:aaaa1111bbbb2222cccc3333dddd4444eeee5555&dn=Stranger.Things.S01.1080p&tr=udp://tracker.example.com:80",
-          "file_size": 6442450944,
-          "episode_count": 8,
-          "year": 2016,
-          "video_quality": "1080p"
+          "magnet": "magnet:?xt=urn:btih:opensourcecinema1&dn=Open+Source+Cinema+S01",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Introduction to Creative Commons",
+              "subtitle_id": 300001,
+              "translation_needed": true
+            },
+            {
+              "number": 2,
+              "title": "The Rise of Open Source Film",
+              "subtitle_id": 300002,
+              "translation_needed": true
+            },
+            {
+              "number": 3,
+              "title": "Community Collaboration",
+              "subtitle_id": 300003,
+              "translation_needed": true
+            },
+            {
+              "number": 4,
+              "title": "Future of Open Media",
+              "subtitle_id": 300004,
+              "translation_needed": false
+            }
+          ]
         }
       ]
     }
-  ],
-  "genres": [
-    "Action",
-    "Adventure",
-    "Animation",
-    "Comedy",
-    "Crime",
-    "Documentary",
-    "Drama",
-    "Family",
-    "Fantasy",
-    "History",
-    "Horror",
-    "Music",
-    "Mystery",
-    "Romance",
-    "Sci-Fi",
-    "Thriller",
-    "War",
-    "Western"
   ]
 }
