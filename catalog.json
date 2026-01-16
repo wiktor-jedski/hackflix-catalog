@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2024-12-17T14:30:00Z",
+  "timestamp": "2024-12-18T14:30:00Z",
   "items": [
     {
       "id": "0",
@@ -10,6 +10,16 @@
       "magnet": "magnet:?xt=urn:btih:E500FBF5408B2EEE6A2FC88CB73E6799C85962ED&dn=Ghost+in+the+Shell+%281995%29+%5BBluRay%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
       "poster_url": "https://example.com/posters/big-buck-bunny.jpg",
       "subtitle_id": null,
+      "translation_needed": false
+    },
+    {
+      "id": "01",
+      "type": "movie",
+      "title": "Goodfellas",
+      "genres": "Crime, Drama",
+      "magnet": "magnet:?xt=urn:btih:C6B2D8ED7101E965F2D5177A9C070520C57739B4&dn=Goodfellas.1990.REMASTERED.1080p.BluRay.x265.AAC5.1&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+      "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_face/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
+      "subtitle_id": 309323,
       "translation_needed": false
     },
     {
@@ -231,6 +241,51 @@
               "subtitle_id": 300004,
               "translation_needed": false
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "series-1",
+      "type": "series",
+      "title": "Chernobyl",
+      "genres": "Documentary, Drama",
+      "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "seasons": [
+        {
+          "season_number": 1,
+          "magnet": "magnet:?xt=urn:btih:95E8D04E47F0D9CB8BF00EC8775C926126A65236&dn=Chernobyl.COMPLETE.Season.1.S01.1080p.AMZN.WEB-DL.x265-HETeam&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fshadowshq.yi.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Finferno.demonoid.pw%3A3391%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fpeerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "1:23:45",
+              "subtitle_id": 4829317,
+              "translation_needed": false
+            },
+            {
+              "number": 2,
+              "title": "Please Remain Calm",
+              "subtitle_id": 4832780,
+              "translation_needed": false
+            },
+            {
+              "number": 3,
+              "title": "Open Wide, O Earth",
+              "subtitle_id": 4844380,
+              "translation_needed": false
+            },
+            {
+              "number": 4,
+              "title": "The Happiness of All Mankind",
+              "subtitle_id": 4900122,
+              "translation_needed": false
+            },
+            {
+              "number": 5,
+              "title": "Vichnaya Pamyat",
+              "subtitle_id": 4849495,
+              "translation_needed": false
+            },
           ]
         }
       ]
