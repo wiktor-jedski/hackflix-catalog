@@ -3,7 +3,7 @@
   "timestamp": "2024-12-18T14:30:00Z",
   "items": [
     {
-      "id": "0",
+      "id": "movie-0",
       "type": "movie",
       "title": "Ghost In The Shell",
       "genres": "Action, Animation",
@@ -13,7 +13,7 @@
       "translation_needed": false
     },
     {
-      "id": "01",
+      "id": "movie-1",
       "type": "movie",
       "title": "Goodfellas",
       "genres": "Crime, Drama",
@@ -21,36 +21,6 @@
       "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_face/3Yy0zBO9AlyAZH1cTI8Ko2ouCi.jpg",
       "subtitle_id": 309323,
       "translation_needed": false
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440001",
-      "type": "movie",
-      "title": "Big Buck Bunny",
-      "genres": "Animation, Comedy, Family",
-      "magnet": "magnet:?xt=urn:btih:dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c&dn=Big+Buck+Bunny",
-      "poster_url": "https://example.com/posters/big-buck-bunny.jpg",
-      "subtitle_id": 123456,
-      "translation_needed": true
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440002",
-      "type": "movie",
-      "title": "Sintel",
-      "genres": "Animation, Fantasy, Action",
-      "magnet": "magnet:?xt=urn:btih:08ada5a7a6183aae1e09d831df6748d566095a10&dn=Sintel",
-      "poster_url": "https://example.com/posters/sintel.jpg",
-      "subtitle_id": null,
-      "translation_needed": false
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440003",
-      "type": "movie",
-      "title": "Tears of Steel",
-      "genres": "Sci-Fi, Action, Drama",
-      "magnet": "magnet:?xt=urn:btih:209c8226b299b308beaf2b9cd3fb49212dbd13ec&dn=Tears+of+Steel",
-      "poster_url": "https://example.com/posters/tears-of-steel.jpg",
-      "subtitle_id": 789012,
-      "translation_needed": true
     },
     {
       "id": "550e8400-e29b-41d4-a716-446655440004",
@@ -285,7 +255,7 @@
               "title": "Vichnaya Pamyat",
               "subtitle_id": 4849495,
               "translation_needed": false
-            },
+            }
           ]
         }
       ]
