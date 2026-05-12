@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-05-12T10:44:44Z",
+  "timestamp": "2026-05-12T18:52:27Z",
   "items": [
     {
       "id": "movie-2",
@@ -483,9 +483,903 @@
               "subtitle_release": "The.Wire.S02E12.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
             }
           ]
+        },
+        {
+          "season_number": 3,
+          "magnet": "magnet:?xt=urn:btih:FCB4468CB8059892EE4B73A0365569C11963B96A&dn=The+Wire+S03+1080p+BluRay+x265+RARBG+%5BNikaNika%5D&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Time After Time",
+              "imdb_id": "tt0749453",
+              "subtitle_id": 1812274,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1724785",
+              "subtitle_release": "PLthe.wire.s03e01.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 2,
+              "title": "All Due Respect",
+              "imdb_id": "tt0749418",
+              "subtitle_id": 1811193,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1723592",
+              "subtitle_release": "the.wire.s03e02.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 3,
+              "title": "Dead Soldiers",
+              "imdb_id": "tt0749426",
+              "subtitle_id": 1810042,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1722378",
+              "subtitle_release": "the.wire.s03e03.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 4,
+              "title": "Amsterdam",
+              "imdb_id": "tt0749420",
+              "subtitle_id": 1812901,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1725499",
+              "subtitle_release": "the.wire.s03e04.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 5,
+              "title": "Straight and True",
+              "imdb_id": "tt0749444",
+              "subtitle_id": 1808236,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1720572",
+              "subtitle_release": "The.Wire.S03E05.DVDRip.XviD-TOPAZ"
+            },
+            {
+              "number": 6,
+              "title": "Homecoming",
+              "imdb_id": "tt0749431",
+              "subtitle_id": 1806808,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1719143",
+              "subtitle_release": "The.Wire.S03E06.720p.BluRay.x264-REWARD"
+            },
+            {
+              "number": 7,
+              "title": "Back Burners",
+              "imdb_id": "tt0749421",
+              "subtitle_id": 1812166,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1724668",
+              "subtitle_release": "the.wire.s03e07.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 8,
+              "title": "Moral Midgetry",
+              "imdb_id": "tt0749436",
+              "subtitle_id": 1813217,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1725833",
+              "subtitle_release": "the.wire.s03e08.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 9,
+              "title": "Slapstick",
+              "imdb_id": "tt0749442",
+              "subtitle_id": 1816964,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1729775",
+              "subtitle_release": "The.Wire.S03E09.720p.HDTV.x264-BATV"
+            },
+            {
+              "number": 10,
+              "title": "Reformation",
+              "imdb_id": "tt0749440",
+              "subtitle_id": 1808342,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1720679",
+              "subtitle_release": "The.Wire.S03E10.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 11,
+              "title": "Middle Ground",
+              "imdb_id": "tt0749434",
+              "subtitle_id": 1815551,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1728329",
+              "subtitle_release": "The.Wire.S03E11.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 12,
+              "title": "Mission Accomplished",
+              "imdb_id": "tt0749435",
+              "subtitle_id": 1818033,
+              "translation_needed": false,
+              "year": 2004,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1730843",
+              "subtitle_release": "The.Wire.S03E12.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "magnet": "magnet:?xt=urn:btih:8B90ED29529338BE579805872C41B1284D744C49&dn=The+Wire+S04+1080p+BluRay+x265+RARBG+%5BNikaNika%5D&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Boys of Summer",
+              "imdb_id": "tt0763093",
+              "subtitle_id": 1813886,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1726586",
+              "subtitle_release": "the.wire.s04e01.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 2,
+              "title": "Soft Eyes",
+              "imdb_id": "tt0763095",
+              "subtitle_id": 1817653,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1730456",
+              "subtitle_release": "the.wire.s04e02.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 3,
+              "title": "Home Rooms",
+              "imdb_id": "tt0763096",
+              "subtitle_id": 1815201,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1727978",
+              "subtitle_release": "The.Wire.S04E03.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 4,
+              "title": "Refugees",
+              "imdb_id": "tt0763097",
+              "subtitle_id": 1814444,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1727185",
+              "subtitle_release": "The.Wire.S04E04.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 5,
+              "title": "Alliances",
+              "imdb_id": "tt0763098",
+              "subtitle_id": 1811850,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1724304",
+              "subtitle_release": "The.Wire.S04E05.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 6,
+              "title": "Margin of Error",
+              "imdb_id": "tt0763099",
+              "subtitle_id": 1805852,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1718189",
+              "subtitle_release": "The.Wire.S04E06.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 7,
+              "title": "Unto Others",
+              "imdb_id": "tt0758650",
+              "subtitle_id": 1813997,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1726704",
+              "subtitle_release": "The.Wire.S04E07.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 8,
+              "title": "Corner Boys",
+              "imdb_id": "tt0796549",
+              "subtitle_id": 1813340,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1725960",
+              "subtitle_release": "The.Wire.S04E08.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 9,
+              "title": "Know Your Place",
+              "imdb_id": "tt0763100",
+              "subtitle_id": 1806776,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1719112",
+              "subtitle_release": "the.wire.s04e09.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 10,
+              "title": "Misgivings",
+              "imdb_id": "tt0763094",
+              "subtitle_id": 1811054,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1723451",
+              "subtitle_release": "the.wire.s04e10.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 11,
+              "title": "A New Day",
+              "imdb_id": "tt0782660",
+              "subtitle_id": 1810736,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1723103",
+              "subtitle_release": "The.Wire.S04E11.A.New.Day.1080p.WEB-DL.DD5.1.H.264-NTb"
+            },
+            {
+              "number": 12,
+              "title": "That&apos;s Got His Own",
+              "imdb_id": "tt0796551",
+              "subtitle_id": 1813534,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1726189",
+              "subtitle_release": "The.Wire.S04E12.Thats.Got.His.Own.1080p.WEB-DL.DD5.1.H.264-NTb"
+            },
+            {
+              "number": 13,
+              "title": "Final Grades",
+              "imdb_id": "tt0796550",
+              "subtitle_id": 1812030,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1724515",
+              "subtitle_release": "The.Wire.S04E13.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            }
+          ]
+        },
+        {
+          "season_number": 5,
+          "magnet": "magnet:?xt=urn:btih:F7BBF0439B9429F53C17EB86BA105FE7BC5BEE08&dn=The+Wire+S05+1080p+BluRay+x265+RARBG+%5BNikaNika%5D&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "More with Less",
+              "imdb_id": "tt0977178",
+              "subtitle_id": 1815820,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1728600",
+              "subtitle_release": "The.Wire.S05E01.REMASTERED.HDTV.x264-BATV"
+            },
+            {
+              "number": 2,
+              "title": "Unconfirmed Reports",
+              "imdb_id": "tt0985516",
+              "subtitle_id": 1811356,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1723758",
+              "subtitle_release": "the.wire.s05e02.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 3,
+              "title": "Not for Attribution",
+              "imdb_id": "tt0977180",
+              "subtitle_id": 1818015,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1730823",
+              "subtitle_release": "the.wire.s05e03.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 4,
+              "title": "Transitions",
+              "imdb_id": "tt0977181",
+              "subtitle_id": 1811300,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1723706",
+              "subtitle_release": "The.Wire.S05E04.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 5,
+              "title": "React Quotes",
+              "imdb_id": "tt0977182",
+              "subtitle_id": 1816465,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1729249",
+              "subtitle_release": "The.Wire.S05E05.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 6,
+              "title": "The Dickensian Aspect",
+              "imdb_id": "tt0977183",
+              "subtitle_id": 1810002,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1722338",
+              "subtitle_release": "The.Wire.S05E06.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed"
+            },
+            {
+              "number": 7,
+              "title": "Took",
+              "imdb_id": "tt0977184",
+              "subtitle_id": 1811520,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1723947",
+              "subtitle_release": "The.Wire.S05E07.720p.BluRay.x264-GECKOS"
+            },
+            {
+              "number": 8,
+              "title": "Clarifications",
+              "imdb_id": "tt0977185",
+              "subtitle_id": 1806720,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1719055",
+              "subtitle_release": "the.wire.s05e08.1080p.bluray.x264-rovers"
+            },
+            {
+              "number": 9,
+              "title": "Late Editions",
+              "imdb_id": "tt0977186",
+              "subtitle_id": 1811643,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1724084",
+              "subtitle_release": "The.Wire.S05E09.REMASTERED.HDTV.x264-BATV"
+            },
+            {
+              "number": 10,
+              "title": "-30-",
+              "imdb_id": "tt0977179",
+              "subtitle_id": 1818917,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "1731703",
+              "subtitle_release": "the.wire.s05e10.1080p.bluray.x264-rovers"
+            }
+          ]
         }
       ],
       "year": 2002
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "title": "Breaking Bad",
+      "genres": "Crime, Drama, Thriller",
+      "imdb_id": "tt0903747",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
+      "seasons": [
+        {
+          "season_number": 1,
+          "magnet": "magnet:?xt=urn:btih:A43107EC1E5C2F5D6429C68CC030031CDDBCB0AD&dn=Breaking+Bad+S01+1080p+BluRay+x265+RARBG+%5BNikaNika%5D&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Pilot",
+              "imdb_id": "tt0959621",
+              "subtitle_id": 2624459,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2548967",
+              "subtitle_release": "Breaking.Bad.S01E01.1080p.BluRay.ReEnc-DeeJayAhmed.mkv"
+            },
+            {
+              "number": 2,
+              "title": "Cat&apos;s in the Bag...",
+              "imdb_id": "tt1054724",
+              "subtitle_id": 2864640,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2791943",
+              "subtitle_release": "Breaking.Bad.S01E02.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 3,
+              "title": "...And the Bag&apos;s in the River",
+              "imdb_id": "tt1054725",
+              "subtitle_id": 2530386,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2453290",
+              "subtitle_release": "Breaking.Bad.S01E03.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 4,
+              "title": "Cancer Man",
+              "imdb_id": "tt1054726",
+              "subtitle_id": 4706101,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4583321",
+              "subtitle_release": "Breaking.Bad.S01E04.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 5,
+              "title": "Gray Matter",
+              "imdb_id": "tt1054727",
+              "subtitle_id": 2861784,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2788888",
+              "subtitle_release": "Breaking.Bad.S01E05.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 6,
+              "title": "Crazy Handful of Nothin&apos;",
+              "imdb_id": "tt1054728",
+              "subtitle_id": 2630910,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2555467",
+              "subtitle_release": "Breaking.Bad.S01E06.HDTV.XviD-LOL"
+            },
+            {
+              "number": 7,
+              "title": "A No-Rough-Stuff-Type Deal",
+              "imdb_id": "tt1054729",
+              "subtitle_id": 2861511,
+              "translation_needed": false,
+              "year": 2008,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2788658",
+              "subtitle_release": "Breaking.Bad.S01E07.HDTV.XviD-LOL"
+            }
+          ]
+        }
+      ],
+      "year": 2008
+    },
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "title": "Peaky Blinders",
+      "genres": "Crime, Drama",
+      "imdb_id": "tt2442560",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BOGM0NGY3ZmItOGE2ZC00OWIxLTk0N2EtZWY4Yzg3ZDlhNGI3XkEyXkFqcGc@._V1_.jpg",
+      "seasons": [
+        {
+          "season_number": 1,
+          "magnet": "magnet:?xt=urn:btih:7B9A9A5F60A41039EFD31B41C66589840495CC04&dn=Peaky+Blinders+S01+1080p+BluRay+x265+RARBG+%5BNikaNika%5D&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode #1.1",
+              "imdb_id": "tt2471500",
+              "subtitle_id": 6871749,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "5855222",
+              "subtitle_release": "Peaky Blinders Season 1 (S01E01) 1080p x264 Phun Psyz"
+            },
+            {
+              "number": 2,
+              "title": "Episode #1.2",
+              "imdb_id": "tt2471502",
+              "subtitle_id": 6884389,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "5868535",
+              "subtitle_release": "Peaky Blinders Season 1 (S01E02) 1080p x264 Phun Psyz25.000 FPS"
+            },
+            {
+              "number": 3,
+              "title": "Episode #1.3",
+              "imdb_id": "tt2471506",
+              "subtitle_id": 6894973,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "5880101",
+              "subtitle_release": "Peaky Blinders S01E03 Episode 3 1080p x264 Phun Psyz"
+            },
+            {
+              "number": 4,
+              "title": "Episode #1.4",
+              "imdb_id": "tt2461634",
+              "subtitle_id": 2465342,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2388000",
+              "subtitle_release": "peaky.blinders.s01e04.proper.hdtv.x264-tla"
+            },
+            {
+              "number": 5,
+              "title": "Episode #1.5",
+              "imdb_id": "tt2461632",
+              "subtitle_id": 2467473,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2389984",
+              "subtitle_release": "Peaky.Blinders.1x05.HDTV.x264-FoV"
+            },
+            {
+              "number": 6,
+              "title": "Episode #1.6",
+              "imdb_id": "tt2461638",
+              "subtitle_id": 2413569,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2335812",
+              "subtitle_release": "Peaky.Blinders.S01E06.HDTV.x264-RiVER"
+            }
+          ]
+        }
+      ],
+      "year": 2014
+    },
+    {
+      "id": "tt0773262",
+      "type": "series",
+      "title": "Dexter",
+      "genres": "Crime, Drama, Mystery",
+      "imdb_id": "tt0773262",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNTE5ZGI2N2UtYmFiMi00ZGIxLWI1ZTMtYWJkZDYxNDZiOTQwXkEyXkFqcGc@._V1_.jpg",
+      "seasons": [
+        {
+          "season_number": 1,
+          "magnet": "magnet:?xt=urn:btih:B79BBC1D4074FFA78FB763F8DACDC03676BA9598&dn=+Dexter+Season+1+Complete+720p+BluRay+x264+ESubs+%5B8GB%5D+%5BS01+Full%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Dexter",
+              "imdb_id": "tt0785280",
+              "subtitle_id": 8206465,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7271656",
+              "subtitle_release": "Dexter.S01E01.Dexter"
+            },
+            {
+              "number": 2,
+              "title": "Crocodile",
+              "imdb_id": "tt0757186",
+              "subtitle_id": 8206608,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7271789",
+              "subtitle_release": "dexter.102.hdtv.xvid-kyr"
+            },
+            {
+              "number": 3,
+              "title": "Popping Cherry",
+              "imdb_id": "tt0828745",
+              "subtitle_id": 8218129,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7283882",
+              "subtitle_release": "Dexter.S01.DVDRip.XviD-SAiNTS EP 1,2,3,4"
+            },
+            {
+              "number": 4,
+              "title": "Let&apos;s Give the Boy a Hand",
+              "imdb_id": "tt0824887",
+              "subtitle_id": 8207743,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7272908",
+              "subtitle_release": "Dexter season 1 episode 4"
+            },
+            {
+              "number": 5,
+              "title": "Love American Style",
+              "imdb_id": "tt0823912",
+              "subtitle_id": 8206708,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7271908",
+              "subtitle_release": "Dexter.-.01x05.(HDTV-NoTV).Love.American.Style"
+            },
+            {
+              "number": 6,
+              "title": "Return to Sender",
+              "imdb_id": "tt0836899",
+              "subtitle_id": 8206111,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7271272",
+              "subtitle_release": "Dexter season 1 episode 6"
+            },
+            {
+              "number": 7,
+              "title": "Circle of Friends",
+              "imdb_id": "tt0859272",
+              "subtitle_id": 8206464,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7271659",
+              "subtitle_release": "Dexter.-.01x07.(HDTV-LOL).Circle.of.Friends"
+            },
+            {
+              "number": 8,
+              "title": "Shrink Wrap",
+              "imdb_id": "tt0859273",
+              "subtitle_id": 8207386,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7272615",
+              "subtitle_release": "Dexter.S01E08.Shrink.Wrap"
+            },
+            {
+              "number": 9,
+              "title": "Father Knows Best",
+              "imdb_id": "tt0866567",
+              "subtitle_id": 8208533,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7273844",
+              "subtitle_release": "Dexter [S01E09] [2006.XviD.SUB-PL]-CWK"
+            },
+            {
+              "number": 10,
+              "title": "Seeing Red",
+              "imdb_id": "tt0866568",
+              "subtitle_id": 8206032,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7271207",
+              "subtitle_release": "Dexter.S01E10.Seeing.Red.HDTV.XviD-LOL.www!OSIOLEK!com"
+            },
+            {
+              "number": 11,
+              "title": "Truth Be Told",
+              "imdb_id": "tt0866569",
+              "subtitle_id": 8205653,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7270810",
+              "subtitle_release": "Dexter season 1 episode 11"
+            },
+            {
+              "number": 12,
+              "title": "Born Free",
+              "imdb_id": "tt0877058",
+              "subtitle_id": 8208451,
+              "translation_needed": false,
+              "year": 2006,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7273762",
+              "subtitle_release": "Dexter [S01E12] [2006.XviD.SUB-PL]-CWK"
+            }
+          ]
+        }
+      ],
+      "year": 2006
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "title": "Reacher",
+      "genres": "Action, Crime, Drama",
+      "imdb_id": "tt9288030",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg",
+      "seasons": [
+        {
+          "season_number": 1,
+          "magnet": "magnet:?xt=urn:btih:F3285D1E17E9054561316D870CD31D3B46AB1197&dn=Reacher.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2900%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2720%2Fannounce&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13780%2Fannounce&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14770%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Welcome to Margrave",
+              "imdb_id": "tt11609062",
+              "subtitle_id": 7204883,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6311483",
+              "subtitle_release": "Reacher.S01E01.Welcome.to.Margrave.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            },
+            {
+              "number": 2,
+              "title": "First Dance",
+              "imdb_id": "tt14503476",
+              "subtitle_id": 7204880,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6311480",
+              "subtitle_release": "Reacher.S01E02.First.Dance.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            },
+            {
+              "number": 3,
+              "title": "Spoonful",
+              "imdb_id": "tt14503478",
+              "subtitle_id": 7204882,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6311482",
+              "subtitle_release": "Reacher.S01E03.Spoonful.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            },
+            {
+              "number": 4,
+              "title": "In a Tree",
+              "imdb_id": "tt15792596",
+              "subtitle_id": 7204879,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6311479",
+              "subtitle_release": "Reacher.S01E04.In.a.Tree.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            },
+            {
+              "number": 5,
+              "title": "No Apologies",
+              "imdb_id": "tt14503494",
+              "subtitle_id": 7204876,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6311475",
+              "subtitle_release": "Reacher.S01E05.No.Apologies.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            },
+            {
+              "number": 6,
+              "title": "Papier",
+              "imdb_id": "tt14503480",
+              "subtitle_id": 7204878,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6311478",
+              "subtitle_release": "Reacher.S01E06.Papier.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            },
+            {
+              "number": 7,
+              "title": "Reacher Said Nothing",
+              "imdb_id": "tt14503470",
+              "subtitle_id": 7204892,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6311493",
+              "subtitle_release": "Reacher.S01E07.Reacher.Said.Nothing.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            },
+            {
+              "number": 8,
+              "title": "Pie",
+              "imdb_id": "tt14503474",
+              "subtitle_id": 7204890,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6311491",
+              "subtitle_release": "Reacher.S01E08.Pie.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            }
+          ]
+        }
+      ],
+      "year": 2022
+    },
+    {
+      "id": "tt0364569",
+      "type": "movie",
+      "title": "Oldboy",
+      "genres": "Action, Drama, Mystery",
+      "imdb_id": "tt0364569",
+      "magnet": "magnet:?xt=urn:btih:D814996F2821A1CCFD958E230C0356CCE9419637&dn=Oldboy+%282003%29+%5BBluRay%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_.jpg",
+      "subtitle_id": 5299671,
+      "translation_needed": false,
+      "year": 2003,
+      "subtitle_source_language": "pl",
+      "subtitle_result_id": "5191799",
+      "subtitle_release": "Oldboy.2003.REPACK.720p.Bluray.DD5.1.x264-PTer"
+    },
+    {
+      "id": "tt0209144",
+      "type": "movie",
+      "title": "Memento",
+      "genres": "Drama, Mystery, Thriller",
+      "imdb_id": "tt0209144",
+      "magnet": "magnet:?xt=urn:btih:EA69E4CA8642766BA3BFA2B0267E2CC53777AFB2&dn=Memento+%282000%29+1080p+BrRip+x264+-+1.6GB+-+YIFY+&tr=udp%3A%2F%2Ftracker.yify-torrents.com%2Fannounce&tr=udp%3A%2F%2Ftracker.publichd.eu%2Fannounce&tr=http%3A%2F%2Ftracker.publichd.eu%2Fannounce&tr=udp%3A%2F%2Ftracker.police.maori.nz%2Fannounce&tr=udp%3A%2F%2Ftracker.1337x.org%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Ftracker.istole.it%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.yify-torrents.com%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_.jpg",
+      "subtitle_id": 184117,
+      "translation_needed": false,
+      "year": 2001,
+      "subtitle_source_language": "pl",
+      "subtitle_result_id": "181800",
+      "subtitle_release": "Memento.2000.1080p.BluRay.x264.YIFY"
+    },
+    {
+      "id": "tt6751668",
+      "type": "movie",
+      "title": "Parasite",
+      "genres": "Drama, Thriller",
+      "imdb_id": "tt6751668",
+      "magnet": "magnet:?xt=urn:btih:CE6D2A6BBC439A8F6B94B23BA63B04164400FE3B&dn=Parasite+%282019%29+%5BBluRay%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+      "subtitle_id": 5036965,
+      "translation_needed": false,
+      "year": 2019,
+      "subtitle_source_language": "pl",
+      "subtitle_result_id": "4913717",
+      "subtitle_release": "PARASITE.2019.1080p.FHDRip.H264.AAC-NonDRM"
+    },
+    {
+      "id": "tt0317248",
+      "type": "movie",
+      "title": "Cidade de Deus",
+      "genres": "Crime, Drama",
+      "imdb_id": "tt0317248",
+      "magnet": "magnet:?xt=urn:btih:86A338246204A48D75985861817BF56F9E3E18E9&dn=City+of+God+%282002%29+%5BBluRay%5D+%5B1080p%5D+%5BYTS%5D+%5BYIFY%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_.jpg",
+      "subtitle_id": 4433907,
+      "translation_needed": false,
+      "year": 2004,
+      "subtitle_source_language": "pl",
+      "subtitle_result_id": "4340719",
+      "subtitle_release": "City.Of.God.DVDRip-XviD"
     }
   ]
 }
