@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-05-12T18:52:27Z",
+  "timestamp": "2026-05-13T10:47:49Z",
   "items": [
     {
       "id": "movie-2",
@@ -1074,6 +1074,7 @@
       "genres": "Crime, Drama, Mystery",
       "imdb_id": "tt0773262",
       "poster_url": "https://m.media-amazon.com/images/M/MV5BNTE5ZGI2N2UtYmFiMi00ZGIxLWI1ZTMtYWJkZDYxNDZiOTQwXkEyXkFqcGc@._V1_.jpg",
+      "magnet": "magnet:?xt=urn:btih:03EEECE756D55E52CBBA3BDF41489AF6A93B191B&dn=Dexter+S01+S02+S03+S04+S05+S06+S07+S08+Complete+720p+BluRay+%5BMP4%5D+%5BSeason+1-8+Full%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
       "seasons": [
         {
           "season_number": 1,
@@ -1210,6 +1211,720 @@
               "subtitle_source_language": "pl",
               "subtitle_result_id": "7273762",
               "subtitle_release": "Dexter [S01E12] [2006.XviD.SUB-PL]-CWK"
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "It&apos;s Alive!",
+              "imdb_id": "tt1013977",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 2,
+              "title": "Waiting to Exhale",
+              "imdb_id": "tt1013981",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 3,
+              "title": "An Inconvenient Lie",
+              "imdb_id": "tt1013982",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 4,
+              "title": "See-Through",
+              "imdb_id": "tt1013983",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 5,
+              "title": "The Dark Defender",
+              "imdb_id": "tt1013984",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 6,
+              "title": "Dex, Lies, and Videotape",
+              "imdb_id": "tt1013985",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 7,
+              "title": "That Night, a Forest Grew",
+              "imdb_id": "tt1013986",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 8,
+              "title": "Morning Comes",
+              "imdb_id": "tt1013987",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 9,
+              "title": "Resistance Is Futile",
+              "imdb_id": "tt1013988",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 10,
+              "title": "There&apos;s Something About Harry",
+              "imdb_id": "tt1013978",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 11,
+              "title": "Left Turn Ahead",
+              "imdb_id": "tt1013979",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 12,
+              "title": "The British Invasion",
+              "imdb_id": "tt1013980",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Our Father",
+              "imdb_id": "tt1242111",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 2,
+              "title": "Finding Freebo",
+              "imdb_id": "tt1242115",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 3,
+              "title": "The Lion Sleeps Tonight",
+              "imdb_id": "tt1242116",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 4,
+              "title": "All in the Family",
+              "imdb_id": "tt1242117",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 5,
+              "title": "Turning Biminese",
+              "imdb_id": "tt1242118",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 6,
+              "title": "Sí Se Puede",
+              "imdb_id": "tt1242119",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 7,
+              "title": "Easy as Pie",
+              "imdb_id": "tt1242120",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 8,
+              "title": "The Damage a Man Can Do",
+              "imdb_id": "tt1242121",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 9,
+              "title": "About Last Night",
+              "imdb_id": "tt1242122",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 10,
+              "title": "Go Your Own Way",
+              "imdb_id": "tt1242112",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 11,
+              "title": "I Had a Dream",
+              "imdb_id": "tt1242113",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 12,
+              "title": "Do You Take Dexter Morgan?",
+              "imdb_id": "tt1242114",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Living the Dream",
+              "imdb_id": "tt1444418",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 2,
+              "title": "Remains to Be Seen",
+              "imdb_id": "tt1444422",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 3,
+              "title": "Blinded by the Light",
+              "imdb_id": "tt1444423",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 4,
+              "title": "Dex Takes a Holiday",
+              "imdb_id": "tt1444424",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 5,
+              "title": "Dirty Harry",
+              "imdb_id": "tt1444425",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 6,
+              "title": "If I Had a Hammer",
+              "imdb_id": "tt1444426",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 7,
+              "title": "Slack Tide",
+              "imdb_id": "tt1444427",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 8,
+              "title": "Road Kill",
+              "imdb_id": "tt1444428",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 9,
+              "title": "Hungry Man",
+              "imdb_id": "tt1444429",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 10,
+              "title": "Lost Boys",
+              "imdb_id": "tt1444419",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 11,
+              "title": "Hello, Dexter Morgan",
+              "imdb_id": "tt1444420",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 12,
+              "title": "The Getaway",
+              "imdb_id": "tt1444421",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            }
+          ]
+        },
+        {
+          "season_number": 5,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "My Bad",
+              "imdb_id": "tt1615586",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 2,
+              "title": "Hello, Bandit",
+              "imdb_id": "tt1681772",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 3,
+              "title": "Practically Perfect",
+              "imdb_id": "tt1691535",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 4,
+              "title": "Beauty and the Beast",
+              "imdb_id": "tt1691360",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 5,
+              "title": "First Blood",
+              "imdb_id": "tt1699327",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 6,
+              "title": "Everything Is Illumenated",
+              "imdb_id": "tt1699544",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 7,
+              "title": "Circle Us",
+              "imdb_id": "tt1721224",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 8,
+              "title": "Take It!",
+              "imdb_id": "tt1720655",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 9,
+              "title": "Teenage Wasteland",
+              "imdb_id": "tt1733347",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 10,
+              "title": "In the Beginning",
+              "imdb_id": "tt1733346",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 11,
+              "title": "Hop a Freighter",
+              "imdb_id": "tt1733345",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 12,
+              "title": "The Big One",
+              "imdb_id": "tt1733344",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            }
+          ]
+        },
+        {
+          "season_number": 6,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Those Kinds of Things",
+              "imdb_id": "tt1790076",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 2,
+              "title": "Once Upon a Time...",
+              "imdb_id": "tt1890880",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 3,
+              "title": "Smokey and the Bandit",
+              "imdb_id": "tt1890881",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 4,
+              "title": "A Horse of a Different Color",
+              "imdb_id": "tt1890882",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 5,
+              "title": "The Angel of Death",
+              "imdb_id": "tt1890883",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 6,
+              "title": "Just Let Go",
+              "imdb_id": "tt1890884",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 7,
+              "title": "Nebraska",
+              "imdb_id": "tt1890885",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 8,
+              "title": "Sin of Omission",
+              "imdb_id": "tt1890886",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 9,
+              "title": "Get Gellar",
+              "imdb_id": "tt1890887",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 10,
+              "title": "Ricochet Rabbit",
+              "imdb_id": "tt1890877",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 11,
+              "title": "Talk to the Hand",
+              "imdb_id": "tt1890878",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 12,
+              "title": "This Is the Way the World Ends",
+              "imdb_id": "tt1890879",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            }
+          ]
+        },
+        {
+          "season_number": 7,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Are You...?",
+              "imdb_id": "tt2134715",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 2,
+              "title": "Sunshine and Frosty Swirl",
+              "imdb_id": "tt2403521",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 3,
+              "title": "Buck the System",
+              "imdb_id": "tt2170724",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 4,
+              "title": "Run",
+              "imdb_id": "tt2218408",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 5,
+              "title": "Swim Deep",
+              "imdb_id": "tt2207888",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 6,
+              "title": "Do the Wrong Thing",
+              "imdb_id": "tt2207890",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 7,
+              "title": "Chemistry",
+              "imdb_id": "tt2235984",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 8,
+              "title": "Argentina",
+              "imdb_id": "tt2235982",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 9,
+              "title": "Helter Skelter",
+              "imdb_id": "tt2235988",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 10,
+              "title": "The Dark... Whatever",
+              "imdb_id": "tt2235986",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 11,
+              "title": "Do You See What I See?",
+              "imdb_id": "tt2235996",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 12,
+              "title": "Surprise, Motherf**ker!",
+              "imdb_id": "tt2235994",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            }
+          ]
+        },
+        {
+          "season_number": 8,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "A Beautiful Day",
+              "imdb_id": "tt2577702",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 2,
+              "title": "Every Silver Lining...",
+              "imdb_id": "tt2578758",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 3,
+              "title": "What&apos;s Eating Dexter Morgan?",
+              "imdb_id": "tt2578760",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 4,
+              "title": "Scar Tissue",
+              "imdb_id": "tt2578762",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 5,
+              "title": "This Little Piggy",
+              "imdb_id": "tt2578764",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 6,
+              "title": "A Little Reflection",
+              "imdb_id": "tt2578770",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 7,
+              "title": "Dress Code",
+              "imdb_id": "tt2578776",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 8,
+              "title": "Are We There Yet?",
+              "imdb_id": "tt2578778",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 9,
+              "title": "Make Your Own Kind of Music",
+              "imdb_id": "tt2578782",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 10,
+              "title": "Goodbye Miami",
+              "imdb_id": "tt2578788",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 11,
+              "title": "Monkey in a Box",
+              "imdb_id": "tt2578790",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
+            },
+            {
+              "number": 12,
+              "title": "Remember the Monsters?",
+              "imdb_id": "tt2578802",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2013
             }
           ]
         }
@@ -1380,6 +2095,1497 @@
       "subtitle_source_language": "pl",
       "subtitle_result_id": "4340719",
       "subtitle_release": "City.Of.God.DVDRip-XviD"
+    },
+    {
+      "id": "tt0099685",
+      "type": "movie",
+      "title": "GoodFellas",
+      "genres": "Biography, Crime, Drama",
+      "imdb_id": "tt0099685",
+      "magnet": "magnet:?xt=urn:btih:C6B2D8ED7101E965F2D5177A9C070520C57739B4&dn=Goodfellas.1990.REMASTERED.1080p.BluRay.x265.AAC5.1&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker1.520.jp%3A443%2Fannounce&tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg",
+      "subtitle_id": 333786,
+      "translation_needed": false,
+      "year": 1990,
+      "subtitle_source_language": "pl",
+      "subtitle_result_id": "309323",
+      "subtitle_release": "Goodfellas.1990.REMASTERED.1080p.BluRay.H264.AAC-RARBG"
+    },
+    {
+      "id": "tt0412142",
+      "type": "series",
+      "title": "House M.D.",
+      "genres": "Drama",
+      "imdb_id": "tt0412142",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjgxYjAwNmMtYTAwZC00YmQxLWJlOTMtMWM0NGJmNDE0YmI2XkEyXkFqcGc@._V1_.jpg",
+      "magnet": "magnet:?xt=urn:btih:E63BA1CF5886487084A52C257540F72DAEF82C90&dn=House+MD+COMPLETE+S01+S02+S03+S04+S05+S06+S07+S08+720p.10bit.WEBRip.x265-budgetbits&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+      "seasons": [
+        {
+          "season_number": 1,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Pilot",
+              "imdb_id": "tt0606035",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2004
+            },
+            {
+              "number": 2,
+              "title": "Paternity",
+              "imdb_id": "tt0606034",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2004
+            },
+            {
+              "number": 3,
+              "title": "Occam&apos;s Razor",
+              "imdb_id": "tt0606033",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2004
+            },
+            {
+              "number": 4,
+              "title": "Maternity",
+              "imdb_id": "tt0606030",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2004
+            },
+            {
+              "number": 5,
+              "title": "Damned If You Do",
+              "imdb_id": "tt0606018",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2004
+            },
+            {
+              "number": 6,
+              "title": "The Socratic Method",
+              "imdb_id": "tt0606045",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2004
+            },
+            {
+              "number": 7,
+              "title": "Fidelity",
+              "imdb_id": "tt0606022",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2004
+            },
+            {
+              "number": 8,
+              "title": "Poison",
+              "imdb_id": "tt0606036",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 9,
+              "title": "DNR",
+              "imdb_id": "tt0606016",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 10,
+              "title": "Histories",
+              "imdb_id": "tt0606025",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 11,
+              "title": "Detox",
+              "imdb_id": "tt0606020",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 12,
+              "title": "Sports Medicine",
+              "imdb_id": "tt0606041",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 13,
+              "title": "Cursed",
+              "imdb_id": "tt0606015",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 14,
+              "title": "Control",
+              "imdb_id": "tt0606014",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 15,
+              "title": "Mob Rules",
+              "imdb_id": "tt0606031",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 16,
+              "title": "Heavy",
+              "imdb_id": "tt0606024",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 17,
+              "title": "Role Model",
+              "imdb_id": "tt0606037",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 18,
+              "title": "Babies &amp; Bathwater",
+              "imdb_id": "tt0606013",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 19,
+              "title": "Kids",
+              "imdb_id": "tt0606028",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 20,
+              "title": "Love Hurts",
+              "imdb_id": "tt0606029",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 21,
+              "title": "Three Stories",
+              "imdb_id": "tt0606046",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 22,
+              "title": "Honeymoon",
+              "imdb_id": "tt0606043",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Acceptance",
+              "imdb_id": "tt0606011",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 2,
+              "title": "Autopsy",
+              "imdb_id": "tt0606012",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 3,
+              "title": "Humpty Dumpty",
+              "imdb_id": "tt0606026",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 4,
+              "title": "TB or Not TB",
+              "imdb_id": "tt0606042",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 5,
+              "title": "Daddy&apos;s Boy",
+              "imdb_id": "tt0606017",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 6,
+              "title": "Spin",
+              "imdb_id": "tt0606040",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 7,
+              "title": "Hunting",
+              "imdb_id": "tt0606027",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 8,
+              "title": "The Mistake",
+              "imdb_id": "tt0606044",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 9,
+              "title": "Deception",
+              "imdb_id": "tt0606019",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2005
+            },
+            {
+              "number": 10,
+              "title": "Failure to Communicate",
+              "imdb_id": "tt0606021",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 11,
+              "title": "Need to Know",
+              "imdb_id": "tt0606032",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 12,
+              "title": "Distractions",
+              "imdb_id": "tt0606023",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 13,
+              "title": "Skin Deep",
+              "imdb_id": "tt0606039",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 14,
+              "title": "Sex Kills",
+              "imdb_id": "tt0606038",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 15,
+              "title": "Clueless",
+              "imdb_id": "tt0763992",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 16,
+              "title": "Safe",
+              "imdb_id": "tt0774238",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 17,
+              "title": "All In",
+              "imdb_id": "tt0774235",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 18,
+              "title": "Sleeping Dogs Lie",
+              "imdb_id": "tt0765624",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 19,
+              "title": "House vs. God",
+              "imdb_id": "tt0774237",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 20,
+              "title": "Euphoria: Part 1",
+              "imdb_id": "tt0774236",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 21,
+              "title": "Euphoria: Part 2",
+              "imdb_id": "tt0799143",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 22,
+              "title": "Forever",
+              "imdb_id": "tt0777001",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 23,
+              "title": "Who&apos;s Your Daddy?",
+              "imdb_id": "tt0784412",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 24,
+              "title": "No Reason",
+              "imdb_id": "tt0787373",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Meaning",
+              "imdb_id": "tt0828219",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 2,
+              "title": "Cane and Able",
+              "imdb_id": "tt0834714",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 3,
+              "title": "Informed Consent",
+              "imdb_id": "tt0834715",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 4,
+              "title": "Lines in the Sand",
+              "imdb_id": "tt0836216",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 5,
+              "title": "Fools for Love",
+              "imdb_id": "tt0873021",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 6,
+              "title": "Que Será Será",
+              "imdb_id": "tt0854514",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 7,
+              "title": "Son of Coma Guy",
+              "imdb_id": "tt0859366",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 8,
+              "title": "Whac-A-Mole",
+              "imdb_id": "tt0866187",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 9,
+              "title": "Finding Judas",
+              "imdb_id": "tt0871152",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 10,
+              "title": "Merry Little Christmas",
+              "imdb_id": "tt0882414",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2006
+            },
+            {
+              "number": 11,
+              "title": "Words and Deeds",
+              "imdb_id": "tt0888858",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 12,
+              "title": "One Day, One Room",
+              "imdb_id": "tt0902016",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 13,
+              "title": "Needle in a Haystack",
+              "imdb_id": "tt0897691",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 14,
+              "title": "Insensitive",
+              "imdb_id": "tt0917153",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 15,
+              "title": "Half-Wit",
+              "imdb_id": "tt0942528",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 16,
+              "title": "Top Secret",
+              "imdb_id": "tt0979558",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 17,
+              "title": "Fetal Position",
+              "imdb_id": "tt0987017",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 18,
+              "title": "Airborne",
+              "imdb_id": "tt0994242",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 19,
+              "title": "Act Your Age",
+              "imdb_id": "tt0976557",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 20,
+              "title": "House Training",
+              "imdb_id": "tt0994243",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 21,
+              "title": "Family",
+              "imdb_id": "tt0994241",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 22,
+              "title": "Resignation",
+              "imdb_id": "tt0994244",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 23,
+              "title": "The Jerk",
+              "imdb_id": "tt1023376",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 24,
+              "title": "Human Error",
+              "imdb_id": "tt1023643",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Alone",
+              "imdb_id": "tt1081396",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 2,
+              "title": "The Right Stuff",
+              "imdb_id": "tt1104387",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 3,
+              "title": "97 Seconds",
+              "imdb_id": "tt1117787",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 4,
+              "title": "Guardian Angels",
+              "imdb_id": "tt1117788",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 5,
+              "title": "Mirror Mirror",
+              "imdb_id": "tt1117789",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 6,
+              "title": "Whatever It Takes",
+              "imdb_id": "tt1123416",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 7,
+              "title": "Ugly",
+              "imdb_id": "tt1136646",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 8,
+              "title": "You Don&apos;t Want to Know",
+              "imdb_id": "tt1134258",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 9,
+              "title": "Games",
+              "imdb_id": "tt1144658",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2007
+            },
+            {
+              "number": 10,
+              "title": "It&apos;s a Wonderful Lie",
+              "imdb_id": "tt1172357",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 11,
+              "title": "Frozen",
+              "imdb_id": "tt1168087",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 12,
+              "title": "Don&apos;t Ever Change",
+              "imdb_id": "tt1178841",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 13,
+              "title": "No More Mr. Nice Guy",
+              "imdb_id": "tt1216106",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 14,
+              "title": "Living the Dream",
+              "imdb_id": "tt1216107",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 15,
+              "title": "House&apos;s Head",
+              "imdb_id": "tt1216108",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 16,
+              "title": "Wilson&apos;s Heart",
+              "imdb_id": "tt1216109",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            }
+          ]
+        },
+        {
+          "season_number": 5,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Dying Changes Everything",
+              "imdb_id": "tt1274484",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 2,
+              "title": "Not Cancer",
+              "imdb_id": "tt1273723",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 3,
+              "title": "Adverse Events",
+              "imdb_id": "tt1273727",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 4,
+              "title": "Birthmarks",
+              "imdb_id": "tt1273728",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 5,
+              "title": "Lucky Thirteen",
+              "imdb_id": "tt1273729",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 6,
+              "title": "Joy",
+              "imdb_id": "tt1273730",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 7,
+              "title": "The Itch",
+              "imdb_id": "tt1273731",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 8,
+              "title": "Emancipation",
+              "imdb_id": "tt1273732",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 9,
+              "title": "Last Resort",
+              "imdb_id": "tt1273733",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 10,
+              "title": "Let Them Eat Cake",
+              "imdb_id": "tt1273713",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 11,
+              "title": "Joy to the World",
+              "imdb_id": "tt1273714",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2008
+            },
+            {
+              "number": 12,
+              "title": "Painless",
+              "imdb_id": "tt1273715",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 13,
+              "title": "Big Baby",
+              "imdb_id": "tt1273716",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 14,
+              "title": "The Greater Good",
+              "imdb_id": "tt1273717",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 15,
+              "title": "Unfaithful",
+              "imdb_id": "tt1273718",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 16,
+              "title": "The Softer Side",
+              "imdb_id": "tt1273719",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 17,
+              "title": "The Social Contract",
+              "imdb_id": "tt1273720",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 18,
+              "title": "Here Kitty",
+              "imdb_id": "tt1273721",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 19,
+              "title": "Locked In",
+              "imdb_id": "tt1273722",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 20,
+              "title": "Simple Explanation",
+              "imdb_id": "tt1273724",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 21,
+              "title": "Saviors",
+              "imdb_id": "tt1273725",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 22,
+              "title": "House Divided",
+              "imdb_id": "tt1273726",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 23,
+              "title": "Under My Skin",
+              "imdb_id": "tt1399759",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 24,
+              "title": "Both Sides Now",
+              "imdb_id": "tt1413129",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            }
+          ]
+        },
+        {
+          "season_number": 6,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Broken",
+              "imdb_id": "tt1462220",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 2,
+              "title": "Epic Fail",
+              "imdb_id": "tt1503404",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 3,
+              "title": "The Tyrant",
+              "imdb_id": "tt1503408",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 4,
+              "title": "Instant Karma",
+              "imdb_id": "tt1503409",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 5,
+              "title": "Brave Heart",
+              "imdb_id": "tt1503410",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 6,
+              "title": "Known Unknowns",
+              "imdb_id": "tt1503411",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 7,
+              "title": "Teamwork",
+              "imdb_id": "tt1503412",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 8,
+              "title": "Ignorance Is Bliss",
+              "imdb_id": "tt1503414",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 9,
+              "title": "Wilson",
+              "imdb_id": "tt1503394",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2009
+            },
+            {
+              "number": 10,
+              "title": "The Down Low",
+              "imdb_id": "tt1564666",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 11,
+              "title": "Remorse",
+              "imdb_id": "tt1503395",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 12,
+              "title": "Moving the Chains",
+              "imdb_id": "tt1503396",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 13,
+              "title": "5 to 9",
+              "imdb_id": "tt1503397",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 14,
+              "title": "Private Lives",
+              "imdb_id": "tt1503398",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 15,
+              "title": "Black Hole",
+              "imdb_id": "tt1503399",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 16,
+              "title": "Lockdown",
+              "imdb_id": "tt1623399",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 17,
+              "title": "Knight Fall",
+              "imdb_id": "tt1503401",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 18,
+              "title": "Open and Shut",
+              "imdb_id": "tt1503402",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 19,
+              "title": "The Choice",
+              "imdb_id": "tt1503403",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 20,
+              "title": "Baggage",
+              "imdb_id": "tt1503405",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 21,
+              "title": "Help Me",
+              "imdb_id": "tt1503406",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            }
+          ]
+        },
+        {
+          "season_number": 7,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Now What?",
+              "imdb_id": "tt1697219",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 2,
+              "title": "Selfish",
+              "imdb_id": "tt1685104",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 3,
+              "title": "Unwritten",
+              "imdb_id": "tt1726377",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 4,
+              "title": "Massage Therapy",
+              "imdb_id": "tt1726378",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 5,
+              "title": "Unplanned Parenthood",
+              "imdb_id": "tt1726379",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 6,
+              "title": "Office Politics",
+              "imdb_id": "tt1708695",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 7,
+              "title": "A Pox on Our House",
+              "imdb_id": "tt1726380",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 8,
+              "title": "Small Sacrifices",
+              "imdb_id": "tt1726381",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2010
+            },
+            {
+              "number": 9,
+              "title": "Larger Than Life",
+              "imdb_id": "tt1726382",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 10,
+              "title": "Carrot or Stick",
+              "imdb_id": "tt1726371",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 11,
+              "title": "Family Practice",
+              "imdb_id": "tt1726372",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 12,
+              "title": "You Must Remember This",
+              "imdb_id": "tt1726373",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 13,
+              "title": "Two Stories",
+              "imdb_id": "tt1726374",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 14,
+              "title": "Recession Proof",
+              "imdb_id": "tt1726375",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 15,
+              "title": "Bombshells",
+              "imdb_id": "tt1726376",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 16,
+              "title": "Out of the Chute",
+              "imdb_id": "tt1842688",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 17,
+              "title": "Fall from Grace",
+              "imdb_id": "tt1842081",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 18,
+              "title": "The Dig",
+              "imdb_id": "tt1878391",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 19,
+              "title": "Last Temptation",
+              "imdb_id": "tt1880571",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 20,
+              "title": "Changes",
+              "imdb_id": "tt1883788",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 21,
+              "title": "The Fix",
+              "imdb_id": "tt1902562",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 22,
+              "title": "After Hours",
+              "imdb_id": "tt1900094",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 23,
+              "title": "Moving On",
+              "imdb_id": "tt1919895",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            }
+          ]
+        },
+        {
+          "season_number": 8,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Twenty Vicodin",
+              "imdb_id": "tt2006450",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 2,
+              "title": "Transplant",
+              "imdb_id": "tt2015677",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 3,
+              "title": "Charity Case",
+              "imdb_id": "tt2016511",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 4,
+              "title": "Risky Business",
+              "imdb_id": "tt2021267",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 5,
+              "title": "The Confession",
+              "imdb_id": "tt2063276",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 6,
+              "title": "Parents",
+              "imdb_id": "tt2084392",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 7,
+              "title": "Dead &amp; Buried",
+              "imdb_id": "tt2084393",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 8,
+              "title": "Perils of Paranoia",
+              "imdb_id": "tt2084394",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2011
+            },
+            {
+              "number": 9,
+              "title": "Better Half",
+              "imdb_id": "tt2092629",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 10,
+              "title": "Runaways",
+              "imdb_id": "tt2121953",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 11,
+              "title": "Nobody&apos;s Fault",
+              "imdb_id": "tt2121954",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 12,
+              "title": "Chase",
+              "imdb_id": "tt2121955",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 13,
+              "title": "Man of the House",
+              "imdb_id": "tt2121956",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 14,
+              "title": "Love Is Blind",
+              "imdb_id": "tt2121957",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 15,
+              "title": "Blowing the Whistle",
+              "imdb_id": "tt2121958",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 16,
+              "title": "Gut Check",
+              "imdb_id": "tt2121959",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 17,
+              "title": "We Need the Eggs",
+              "imdb_id": "tt2121960",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 18,
+              "title": "Body and Soul",
+              "imdb_id": "tt2121961",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 19,
+              "title": "The C Word",
+              "imdb_id": "tt2121962",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 20,
+              "title": "Post Mortem",
+              "imdb_id": "tt2121963",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 21,
+              "title": "Holding On",
+              "imdb_id": "tt2121964",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 22,
+              "title": "Everybody Dies",
+              "imdb_id": "tt2121965",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            },
+            {
+              "number": 23,
+              "title": "House M.D. Swan Song",
+              "imdb_id": "tt39387148",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2012
+            }
+          ]
+        }
+      ],
+      "year": 2004
     }
   ]
 }
