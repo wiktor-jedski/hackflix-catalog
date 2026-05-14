@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-05-13T10:47:49Z",
+  "timestamp": "2026-05-14T06:27:43Z",
   "items": [
     {
       "id": "movie-2",
@@ -98,6 +98,76 @@
               "subtitle_id": null,
               "translation_needed": false,
               "year": 2023
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "magnet": "magnet:?xt=urn:btih:B382FF36AA722588B405140BEC9F685EC0B31CFC&dn=%5Bbitsearch.to%5D%201670%20(2025)%20%5BSezon%202%5D%20PL%201080p%20NF%20WEB-DL%20x264%20KiT%20%5BR68%5D&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "The Al-Inklusive",
+              "imdb_id": "tt37161627",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2025
+            },
+            {
+              "number": 2,
+              "title": "The Funeral",
+              "imdb_id": "tt38351473",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2025
+            },
+            {
+              "number": 3,
+              "title": "A Quick Bet",
+              "imdb_id": "tt38354139",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2025
+            },
+            {
+              "number": 4,
+              "title": "The Ball Game",
+              "imdb_id": "tt38354141",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2025
+            },
+            {
+              "number": 5,
+              "title": "Witchcraft",
+              "imdb_id": "tt38354142",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2025
+            },
+            {
+              "number": 6,
+              "title": "Kupala Night",
+              "imdb_id": "tt38354143",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2025
+            },
+            {
+              "number": 7,
+              "title": "Krakow",
+              "imdb_id": "tt38354144",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2025
+            },
+            {
+              "number": 8,
+              "title": "The Harvest Festival",
+              "imdb_id": "tt38354146",
+              "subtitle_id": null,
+              "translation_needed": false,
+              "year": 2025
             }
           ]
         }
@@ -980,6 +1050,635 @@
               "subtitle_release": "Breaking.Bad.S01E07.HDTV.XviD-LOL"
             }
           ]
+        },
+        {
+          "season_number": 2,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Seven Thirty-Seven",
+              "imdb_id": "tt1232244",
+              "subtitle_id": 2508743,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2431524",
+              "subtitle_release": "Breaking.Bad.S02E01.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 2,
+              "title": "Grilled",
+              "imdb_id": "tt1232249",
+              "subtitle_id": 2865947,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2793233",
+              "subtitle_release": "Breaking.Bad.S02E02.480p.BRRip.x264-BoB"
+            },
+            {
+              "number": 3,
+              "title": "Bit by a Dead Bee",
+              "imdb_id": "tt1232250",
+              "subtitle_id": 2474397,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2396716",
+              "subtitle_release": "breaking.bad.s02e03.720p.brrip.x264-visionx"
+            },
+            {
+              "number": 4,
+              "title": "Down",
+              "imdb_id": "tt1232251",
+              "subtitle_id": 2864998,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2792326",
+              "subtitle_release": "breaking.bad.s02e04.720p.brrip.x264-visionx"
+            },
+            {
+              "number": 5,
+              "title": "Breakage",
+              "imdb_id": "tt1232252",
+              "subtitle_id": 2869501,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2797153",
+              "subtitle_release": "breaking.bad.s02e05.720p.brrip.x264-visionx"
+            },
+            {
+              "number": 6,
+              "title": "Peekaboo",
+              "imdb_id": "tt1232253",
+              "subtitle_id": 4694914,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4572127",
+              "subtitle_release": "Breaking.Bad.S02E06.HDTV.XviD-0TV"
+            },
+            {
+              "number": 7,
+              "title": "Negro y Azul",
+              "imdb_id": "tt1232254",
+              "subtitle_id": 2864314,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2791609",
+              "subtitle_release": "Breaking.Bad.S02E07.480p.BRRip.x264-BoB"
+            },
+            {
+              "number": 8,
+              "title": "Better Call Saul",
+              "imdb_id": "tt1232255",
+              "subtitle_id": 4701419,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4578649",
+              "subtitle_release": "breaking.bad.s02e08.720p.brrip.x264-visionx"
+            },
+            {
+              "number": 9,
+              "title": "4 Days Out",
+              "imdb_id": "tt1232256",
+              "subtitle_id": 2862655,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2789810",
+              "subtitle_release": "Breaking.Bad.S02E09.HDTV.XviD-0TV"
+            },
+            {
+              "number": 10,
+              "title": "Over",
+              "imdb_id": "tt1232245",
+              "subtitle_id": 2864436,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2791680",
+              "subtitle_release": "breaking.bad.s02e10.720p.brrip.x264-visionx"
+            },
+            {
+              "number": 11,
+              "title": "Mandala",
+              "imdb_id": "tt1232246",
+              "subtitle_id": 2862565,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2789709",
+              "subtitle_release": "Breaking.Bad.S02E11.HDTV.XviD-0TV"
+            },
+            {
+              "number": 12,
+              "title": "Phoenix",
+              "imdb_id": "tt1232247",
+              "subtitle_id": 2862727,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2789904",
+              "subtitle_release": "Breaking.Bad.S02E12.HDTV.XviD-0TV"
+            },
+            {
+              "number": 13,
+              "title": "ABQ",
+              "imdb_id": "tt1232248",
+              "subtitle_id": 4694619,
+              "translation_needed": false,
+              "year": 2009,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4571833",
+              "subtitle_release": "breaking.bad.213.season.finale.hdtv-0tv"
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "No Más",
+              "imdb_id": "tt1528116",
+              "subtitle_id": 2864345,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2791644",
+              "subtitle_release": "breaking.bad.s03e01.720p.brrip.x264-visionx"
+            },
+            {
+              "number": 2,
+              "title": "Caballo sin Nombre",
+              "imdb_id": "tt1615186",
+              "subtitle_id": 2863106,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2790325",
+              "subtitle_release": "Breaking.Bad.S03E02.Caballo.Sin.Nombre.HDTV.XviD-FQM"
+            },
+            {
+              "number": 3,
+              "title": "I.F.T.",
+              "imdb_id": "tt1615187",
+              "subtitle_id": 4695162,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4572394",
+              "subtitle_release": "Breaking.Bad.S03E03.I.F.T.HDTV.XviD-FQM"
+            },
+            {
+              "number": 4,
+              "title": "Green Light",
+              "imdb_id": "tt1615554",
+              "subtitle_id": 4694906,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4572123",
+              "subtitle_release": "Breaking.Bad.S03E04.Green.Light.HDTV.XviD-FQM"
+            },
+            {
+              "number": 5,
+              "title": "Más",
+              "imdb_id": "tt1615555",
+              "subtitle_id": 2862304,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2789468",
+              "subtitle_release": "breaking.bad.s03e05.hdtv.xvid-fever"
+            },
+            {
+              "number": 6,
+              "title": "Sunset",
+              "imdb_id": "tt1615556",
+              "subtitle_id": 4698425,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4575652",
+              "subtitle_release": "Breaking.Bad.S03E06.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 7,
+              "title": "One Minute",
+              "imdb_id": "tt1615944",
+              "subtitle_id": 4694963,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4572183",
+              "subtitle_release": "Breaking.Bad.S03E07.HDTV.XviD-LOL"
+            },
+            {
+              "number": 8,
+              "title": "I See You",
+              "imdb_id": "tt1615557",
+              "subtitle_id": 2862658,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2789823",
+              "subtitle_release": "Breaking.Bad.S03E08.I.See.You.HDTV.XviD-FQM"
+            },
+            {
+              "number": 9,
+              "title": "Kafkaesque",
+              "imdb_id": "tt1615558",
+              "subtitle_id": 2863906,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2791193",
+              "subtitle_release": "Breaking.Bad.S03E09.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 10,
+              "title": "Fly",
+              "imdb_id": "tt1615550",
+              "subtitle_id": 2861887,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2789060",
+              "subtitle_release": "Breaking.Bad.S03E10.Fly.HDTV.XviD-FQM"
+            },
+            {
+              "number": 11,
+              "title": "Abiquiu",
+              "imdb_id": "tt1615551",
+              "subtitle_id": 2866904,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2794286",
+              "subtitle_release": "Breaking.Bad.S03E11.Abiquiu.HDTV.XviD-FQM"
+            },
+            {
+              "number": 12,
+              "title": "Half Measures",
+              "imdb_id": "tt1615552",
+              "subtitle_id": 2869372,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2797005",
+              "subtitle_release": "Breaking.Bad.S03E12.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 13,
+              "title": "Full Measure",
+              "imdb_id": "tt1615553",
+              "subtitle_id": 4697401,
+              "translation_needed": false,
+              "year": 2010,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4574626",
+              "subtitle_release": "Breaking.Bad.S03E13.480p.BDRip.XviD.AC3-ELiTE"
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Box Cutter",
+              "imdb_id": "tt1683084",
+              "subtitle_id": 2628905,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2553413",
+              "subtitle_release": "Breaking.Bad.S04E01.480p.BDRip.XviD.AC3-ELiTE"
+            },
+            {
+              "number": 2,
+              "title": "Thirty-Eight Snub",
+              "imdb_id": "tt1683089",
+              "subtitle_id": 4694996,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4572217",
+              "subtitle_release": "Breaking.Bad.S04E02.HDTV.XviD-ASAP"
+            },
+            {
+              "number": 3,
+              "title": "Open House",
+              "imdb_id": "tt1683090",
+              "subtitle_id": 4696375,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4573602",
+              "subtitle_release": "breaking.bad.s04e03.720p.hdtv.x264-orenji"
+            },
+            {
+              "number": 4,
+              "title": "Bullet Points",
+              "imdb_id": "tt1683091",
+              "subtitle_id": 2608719,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2533059",
+              "subtitle_release": "Breaking.Bad.s04e04.hdtv.xvid-fqm"
+            },
+            {
+              "number": 5,
+              "title": "Shotgun",
+              "imdb_id": "tt1683092",
+              "subtitle_id": 2867012,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2794372",
+              "subtitle_release": "Breaking.Bad.S04E05.Shotgun.HDTV.XviD-FQM"
+            },
+            {
+              "number": 6,
+              "title": "Cornered",
+              "imdb_id": "tt1683093",
+              "subtitle_id": 2482073,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2404466",
+              "subtitle_release": "breaking.bad.s04e06.hdtv.xvid-asap"
+            },
+            {
+              "number": 7,
+              "title": "Problem Dog",
+              "imdb_id": "tt1683094",
+              "subtitle_id": 2863319,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2790567",
+              "subtitle_release": "Breaking.Bad.S04E07.Problem.Dog.HDTV.XviD-FQM"
+            },
+            {
+              "number": 8,
+              "title": "Hermanos",
+              "imdb_id": "tt1683095",
+              "subtitle_id": 2861721,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2788897",
+              "subtitle_release": "Breaking.Bad.S04E08.HDTV.XviD-TLA"
+            },
+            {
+              "number": 9,
+              "title": "Bug",
+              "imdb_id": "tt1683096",
+              "subtitle_id": 2868092,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2795514",
+              "subtitle_release": "Breaking.Bad.s04e09.hdtv.xvid-TLA"
+            },
+            {
+              "number": 10,
+              "title": "Salud",
+              "imdb_id": "tt1683085",
+              "subtitle_id": 2468078,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2390529",
+              "subtitle_release": "breaking_bad_S04E10_cwiet_www.darkwarez"
+            },
+            {
+              "number": 11,
+              "title": "Crawl Space",
+              "imdb_id": "tt1683086",
+              "subtitle_id": 2860947,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2788124",
+              "subtitle_release": "Breaking.Bad.S04E11.HDTV.XviD-ASAP"
+            },
+            {
+              "number": 12,
+              "title": "End Times",
+              "imdb_id": "tt1683087",
+              "subtitle_id": 2523923,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2446740",
+              "subtitle_release": "Breaking.Bad.S04E12.HDTV.XviD-ASAP"
+            },
+            {
+              "number": 13,
+              "title": "Face Off",
+              "imdb_id": "tt1683088",
+              "subtitle_id": 4694848,
+              "translation_needed": false,
+              "year": 2011,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4572065",
+              "subtitle_release": "Breaking.Bad.S04E13.Face.Off.HDTV.XviD-FQM"
+            }
+          ]
+        },
+        {
+          "season_number": 5,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Live Free or Die",
+              "imdb_id": "tt2081647",
+              "subtitle_id": 2866635,
+              "translation_needed": false,
+              "year": 2012,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2794012",
+              "subtitle_release": "Breaking.Bad.S05E01.BDRip.XviD-DEMAND"
+            },
+            {
+              "number": 2,
+              "title": "Madrigal",
+              "imdb_id": "tt2301457",
+              "subtitle_id": 4696769,
+              "translation_needed": false,
+              "year": 2012,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4573995",
+              "subtitle_release": "Breaking.Bad.S05E02.HDTV.x264-FQM"
+            },
+            {
+              "number": 3,
+              "title": "Hazard Pay",
+              "imdb_id": "tt2301459",
+              "subtitle_id": 2503520,
+              "translation_needed": false,
+              "year": 2012,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2426151",
+              "subtitle_release": "Breaking.Bad.S05E03.HDTV.x264-FQM"
+            },
+            {
+              "number": 4,
+              "title": "Fifty-One",
+              "imdb_id": "tt2301461",
+              "subtitle_id": 2867887,
+              "translation_needed": false,
+              "year": 2012,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2795283",
+              "subtitle_release": "Breaking.Bad.S05E04.HDTV.XviD-MGD"
+            },
+            {
+              "number": 5,
+              "title": "Dead Freight",
+              "imdb_id": "tt2301463",
+              "subtitle_id": 2867638,
+              "translation_needed": false,
+              "year": 2012,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2795048",
+              "subtitle_release": "breaking.bad.s05e05.hdtv.x264-fqm"
+            },
+            {
+              "number": 6,
+              "title": "Buyout",
+              "imdb_id": "tt2301465",
+              "subtitle_id": 2866556,
+              "translation_needed": false,
+              "year": 2012,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2793937",
+              "subtitle_release": "Breaking.Bad.S05E06.480p.HDTV.x264-mSD"
+            },
+            {
+              "number": 7,
+              "title": "Say My Name",
+              "imdb_id": "tt2301467",
+              "subtitle_id": 2870729,
+              "translation_needed": false,
+              "year": 2012,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2798499",
+              "subtitle_release": "Breaking.Bad.S05E07.BDRip.XviD-DEMAND"
+            },
+            {
+              "number": 8,
+              "title": "Gliding Over All",
+              "imdb_id": "tt2301469",
+              "subtitle_id": 2537054,
+              "translation_needed": false,
+              "year": 2012,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2460078",
+              "subtitle_release": "Breaking.Bad.S05E08.BDRip.XviD-DEMAND"
+            },
+            {
+              "number": 9,
+              "title": "Blood Money",
+              "imdb_id": "tt2301471",
+              "subtitle_id": 2868677,
+              "translation_needed": false,
+              "year": 2013,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2796165",
+              "subtitle_release": "Breaking.Bad.S05E09.720p.HDTV.x264-IMMERSE"
+            },
+            {
+              "number": 10,
+              "title": "Buried",
+              "imdb_id": "tt2301443",
+              "subtitle_id": 2863151,
+              "translation_needed": false,
+              "year": 2013,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2790373",
+              "subtitle_release": "Breaking.Bad.S05E10.720p.HDTV.x264-IMMERSE"
+            },
+            {
+              "number": 11,
+              "title": "Confessions",
+              "imdb_id": "tt2301445",
+              "subtitle_id": 2862863,
+              "translation_needed": false,
+              "year": 2013,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2790066",
+              "subtitle_release": "Breaking.Bad.S05E11.HDTV.x264-ASAP"
+            },
+            {
+              "number": 12,
+              "title": "Rabid Dog",
+              "imdb_id": "tt2301447",
+              "subtitle_id": 2863272,
+              "translation_needed": false,
+              "year": 2013,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2790506",
+              "subtitle_release": "Breaking.Bad.S05E12.720p.HDTV.x264-EVOLVE"
+            },
+            {
+              "number": 13,
+              "title": "To&apos;hajiilee",
+              "imdb_id": "tt2301449",
+              "subtitle_id": 4696782,
+              "translation_needed": false,
+              "year": 2013,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4574006",
+              "subtitle_release": "Breaking.Bad.S05E13.720p.HDTV.x264-IMMERSE.srt"
+            },
+            {
+              "number": 14,
+              "title": "Ozymandias",
+              "imdb_id": "tt2301451",
+              "subtitle_id": 2864270,
+              "translation_needed": false,
+              "year": 2013,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2791559",
+              "subtitle_release": "Breaking.Bad.S05E14.HDTV.x264-ASAP"
+            },
+            {
+              "number": 15,
+              "title": "Granite State",
+              "imdb_id": "tt2301453",
+              "subtitle_id": 4696111,
+              "translation_needed": false,
+              "year": 2013,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4573340",
+              "subtitle_release": "Breaking.Bad.S05E15.720p.HDTV.x264-EVOLVE"
+            },
+            {
+              "number": 16,
+              "title": "Felina",
+              "imdb_id": "tt2301455",
+              "subtitle_id": 2862922,
+              "translation_needed": false,
+              "year": 2013,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2790127",
+              "subtitle_release": "Breaking.Bad.S05E16.720p.HDTV.x264-IMMERSE"
+            }
+          ]
         }
       ],
       "year": 2008
@@ -1061,6 +1760,366 @@
               "subtitle_source_language": "pl",
               "subtitle_result_id": "2335812",
               "subtitle_release": "Peaky.Blinders.S01E06.HDTV.x264-RiVER"
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode #2.1",
+              "imdb_id": "tt3655782",
+              "subtitle_id": 2473965,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2396284",
+              "subtitle_release": "Peaky Blinders 02 X 01 - Episode 1"
+            },
+            {
+              "number": 2,
+              "title": "Episode #2.2",
+              "imdb_id": "tt3683570",
+              "subtitle_id": 2468194,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2390641",
+              "subtitle_release": "peaky_blinders.2x02.hdtv_x264-fov"
+            },
+            {
+              "number": 3,
+              "title": "Episode #2.3",
+              "imdb_id": "tt3683572",
+              "subtitle_id": 2469360,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2391792",
+              "subtitle_release": "Peaky.Blinders.2x03.HDTV.x264-FoV"
+            },
+            {
+              "number": 4,
+              "title": "Episode #2.4",
+              "imdb_id": "tt3683574",
+              "subtitle_id": 2469312,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2391741",
+              "subtitle_release": "Peaky.Blinders.S02E04.HDTV.x264-RiVER"
+            },
+            {
+              "number": 5,
+              "title": "Episode #2.5",
+              "imdb_id": "tt3683578",
+              "subtitle_id": 2471010,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2393478",
+              "subtitle_release": "peaky_blinders.2x05.720p_hdtv_x264-fov"
+            },
+            {
+              "number": 6,
+              "title": "Episode #2.6",
+              "imdb_id": "tt3683576",
+              "subtitle_id": 2470942,
+              "translation_needed": false,
+              "year": 2014,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2393415",
+              "subtitle_release": "peaky.blinders.s02e06.720p.hdtv.x264-tla"
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Episode #3.1",
+              "imdb_id": "tt4277144",
+              "subtitle_id": 2414534,
+              "translation_needed": false,
+              "year": 2016,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2336804",
+              "subtitle_release": "Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD.mkv"
+            },
+            {
+              "number": 2,
+              "title": "Episode #3.2",
+              "imdb_id": "tt4370544",
+              "subtitle_id": 2469260,
+              "translation_needed": false,
+              "year": 2016,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2391692",
+              "subtitle_release": "Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD.mkv"
+            },
+            {
+              "number": 3,
+              "title": "Episode #3.3",
+              "imdb_id": "tt4370546",
+              "subtitle_id": 2470659,
+              "translation_needed": false,
+              "year": 2016,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2393134",
+              "subtitle_release": "Peaky.Blinders.S03E03.720p.BluRay.x264.ShAaNiG"
+            },
+            {
+              "number": 4,
+              "title": "Episode #3.4",
+              "imdb_id": "tt4370550",
+              "subtitle_id": 2467655,
+              "translation_needed": false,
+              "year": 2016,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2390138",
+              "subtitle_release": "Peaky.Blinders.S03E04.HDTV.x264-BRISK"
+            },
+            {
+              "number": 5,
+              "title": "Episode #3.5",
+              "imdb_id": "tt4370554",
+              "subtitle_id": 2468726,
+              "translation_needed": false,
+              "year": 2016,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2391134",
+              "subtitle_release": "Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD.mkv"
+            },
+            {
+              "number": 6,
+              "title": "Episode #3.6",
+              "imdb_id": "tt4370552",
+              "subtitle_id": 2468830,
+              "translation_needed": false,
+              "year": 2016,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2391241",
+              "subtitle_release": "Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD.mkv"
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "The Noose",
+              "imdb_id": "tt5755998",
+              "subtitle_id": 2468617,
+              "translation_needed": false,
+              "year": 2017,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2391030",
+              "subtitle_release": "Peaky.Blinders.S04E01.720p.HDTV.x264-BRISK"
+            },
+            {
+              "number": 2,
+              "title": "Heathens",
+              "imdb_id": "tt6227888",
+              "subtitle_id": 2469682,
+              "translation_needed": false,
+              "year": 2017,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2392139",
+              "subtitle_release": "Peaky.Blinders.S04E02.720p.HDTV.x264-BRISK"
+            },
+            {
+              "number": 3,
+              "title": "Blackbird",
+              "imdb_id": "tt6227890",
+              "subtitle_id": 2472623,
+              "translation_needed": false,
+              "year": 2017,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2395105",
+              "subtitle_release": "Peaky.Blinders.S04E03.720p.HDTV.x264-BRISK"
+            },
+            {
+              "number": 4,
+              "title": "Dangerous",
+              "imdb_id": "tt6227892",
+              "subtitle_id": 2470279,
+              "translation_needed": false,
+              "year": 2017,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2392752",
+              "subtitle_release": "Peaky.Blinders.S04E04.720p.HDTV.x264-BRISK"
+            },
+            {
+              "number": 5,
+              "title": "The Duel",
+              "imdb_id": "tt6227900",
+              "subtitle_id": 2471040,
+              "translation_needed": false,
+              "year": 2017,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2393511",
+              "subtitle_release": "hdtv x264"
+            },
+            {
+              "number": 6,
+              "title": "The Company",
+              "imdb_id": "tt6056650",
+              "subtitle_id": 2472153,
+              "translation_needed": false,
+              "year": 2017,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "2394656",
+              "subtitle_release": "peaky.blinders.s04e06.1080p.hdtv.x264-mtb.mkv"
+            }
+          ]
+        },
+        {
+          "season_number": 5,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Black Tuesday",
+              "imdb_id": "tt5756000",
+              "subtitle_id": 5034148,
+              "translation_needed": false,
+              "year": 2019,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4910893",
+              "subtitle_release": "Peaky.Blinders.S05E01.Black.Tuesday.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69"
+            },
+            {
+              "number": 2,
+              "title": "Black Cats",
+              "imdb_id": "tt6227902",
+              "subtitle_id": 5037784,
+              "translation_needed": false,
+              "year": 2019,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "4914533",
+              "subtitle_release": "Peaky.Blinders.S05E02.Black.Cats.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69"
+            },
+            {
+              "number": 3,
+              "title": "Strategy",
+              "imdb_id": "tt6229668",
+              "subtitle_id": 5177923,
+              "translation_needed": false,
+              "year": 2019,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "5065096",
+              "subtitle_release": "Peaky.Blinders.S05E03.1080p.HDTV.x264-BRISK"
+            },
+            {
+              "number": 4,
+              "title": "The Loop",
+              "imdb_id": "tt6229670",
+              "subtitle_id": 5199783,
+              "translation_needed": false,
+              "year": 2019,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "5087205",
+              "subtitle_release": "Peaky.Blinders.S05E04.The.Loop.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69"
+            },
+            {
+              "number": 5,
+              "title": "The Shock",
+              "imdb_id": "tt6229672",
+              "subtitle_id": 5136730,
+              "translation_needed": false,
+              "year": 2019,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "5013641",
+              "subtitle_release": "Peaky.Blinders.S05E05.1080p.HDTV.x264-BRISK"
+            },
+            {
+              "number": 6,
+              "title": "Mr. Jones",
+              "imdb_id": "tt6056652",
+              "subtitle_id": 5190661,
+              "translation_needed": false,
+              "year": 2019,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "5077969",
+              "subtitle_release": "Peaky.Blinders.S05E06.1080p.HDTV.x264-BRISK"
+            }
+          ]
+        },
+        {
+          "season_number": 6,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Black Day",
+              "imdb_id": "tt10698464",
+              "subtitle_id": 7239239,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6363295",
+              "subtitle_release": "HDTV 1080p Organic"
+            },
+            {
+              "number": 2,
+              "title": "Black Shirt",
+              "imdb_id": "tt10906292",
+              "subtitle_id": 7249194,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6377475",
+              "subtitle_release": "webdl,webrip iP flux,Tommy,NoGrp,GLHF"
+            },
+            {
+              "number": 3,
+              "title": "Gold",
+              "imdb_id": "tt10906296",
+              "subtitle_id": 7291621,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6393745",
+              "subtitle_release": "Peaky.Blinders.S06E03.1080p.HDTV.x264-ORGANiC"
+            },
+            {
+              "number": 4,
+              "title": "Sapphire",
+              "imdb_id": "tt10906300",
+              "subtitle_id": 7384300,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6408586",
+              "subtitle_release": "Peaky.Blinders.S06E04.Sapphire.720p.AMZN.WEB-DL.DDP5.1.H.264-TOMMY"
+            },
+            {
+              "number": 5,
+              "title": "The Road to Hell",
+              "imdb_id": "tt10906306",
+              "subtitle_id": 7395744,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6419845",
+              "subtitle_release": "webdl,webrip Sexxy,IOn10,NoGRP,GLHF"
+            },
+            {
+              "number": 6,
+              "title": "Lock and Key",
+              "imdb_id": "tt10906308",
+              "subtitle_id": 7403213,
+              "translation_needed": false,
+              "year": 2022,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "6427292",
+              "subtitle_release": "HDTV 1080p Organic"
             }
           ]
         }
@@ -2282,6 +3341,194 @@
               "subtitle_source_language": "pl",
               "subtitle_result_id": "6311491",
               "subtitle_release": "Reacher.S01E08.Pie.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb"
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "ATM",
+              "imdb_id": "tt18071558",
+              "subtitle_id": 8468041,
+              "translation_needed": false,
+              "year": 2023,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7539108",
+              "subtitle_release": "webrip AMZ"
+            },
+            {
+              "number": 2,
+              "title": "What Happens in Atlantic City",
+              "imdb_id": "tt27830315",
+              "subtitle_id": 8468042,
+              "translation_needed": false,
+              "year": 2023,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7539109",
+              "subtitle_release": "webrip AMZ"
+            },
+            {
+              "number": 3,
+              "title": "Picture Says a Thousand Words",
+              "imdb_id": "tt27830321",
+              "subtitle_id": 8468035,
+              "translation_needed": false,
+              "year": 2023,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7539102",
+              "subtitle_release": "webrip AMZ"
+            },
+            {
+              "number": 4,
+              "title": "A Night at the Symphony",
+              "imdb_id": "tt27830327",
+              "subtitle_id": 8476424,
+              "translation_needed": false,
+              "year": 2023,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7547916",
+              "subtitle_release": "webrip NTb"
+            },
+            {
+              "number": 5,
+              "title": "Burial",
+              "imdb_id": "tt27830339",
+              "subtitle_id": 8482724,
+              "translation_needed": false,
+              "year": 2023,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7554644",
+              "subtitle_release": "webrip AMZ"
+            },
+            {
+              "number": 6,
+              "title": "New York&apos;s Finest",
+              "imdb_id": "tt27830343",
+              "subtitle_id": 8490193,
+              "translation_needed": false,
+              "year": 2024,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7562505",
+              "subtitle_release": "Reacher.S02E06.New.Yorks.Finest.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb_track32_[pol]"
+            },
+            {
+              "number": 7,
+              "title": "The Man Goes Through",
+              "imdb_id": "tt27830353",
+              "subtitle_id": 8501240,
+              "translation_needed": false,
+              "year": 2024,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7573958",
+              "subtitle_release": "Reacher.S02E07.The.Man.Goes.Through.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb31_[pol]"
+            },
+            {
+              "number": 8,
+              "title": "Fly Boy",
+              "imdb_id": "tt27830361",
+              "subtitle_id": 8509739,
+              "translation_needed": false,
+              "year": 2024,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "7582834",
+              "subtitle_release": "Reacher.S02E08.1080p.WEB.H264-SuccessfulCrab32_[pol]"
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "magnet": "",
+          "episodes": [
+            {
+              "number": 1,
+              "title": "Persuader",
+              "imdb_id": "tt30270042",
+              "subtitle_id": 10852459,
+              "translation_needed": false,
+              "year": 2025,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "9943189",
+              "subtitle_release": "webrip successfulcrab,All"
+            },
+            {
+              "number": 2,
+              "title": "Truckin&apos;",
+              "imdb_id": "tt34929214",
+              "subtitle_id": 10852463,
+              "translation_needed": false,
+              "year": 2025,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "9943193",
+              "subtitle_release": "webrip successfulcrab,All"
+            },
+            {
+              "number": 3,
+              "title": "Number 2 with a Bullet",
+              "imdb_id": "tt34929209",
+              "subtitle_id": 10852467,
+              "translation_needed": false,
+              "year": 2025,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "9943197",
+              "subtitle_release": "webrip successfulcrab,All"
+            },
+            {
+              "number": 4,
+              "title": "Dominique",
+              "imdb_id": "tt34929212",
+              "subtitle_id": 10874168,
+              "translation_needed": false,
+              "year": 2025,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "9965098",
+              "subtitle_release": "webrip successfulcrab,All"
+            },
+            {
+              "number": 5,
+              "title": "Smackdown",
+              "imdb_id": "tt34929211",
+              "subtitle_id": 10892985,
+              "translation_needed": false,
+              "year": 2025,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "9984237",
+              "subtitle_release": "Reacher.S03E05.1080p.WEB.H264-ETHEL"
+            },
+            {
+              "number": 6,
+              "title": "Smoke on the Water",
+              "imdb_id": "tt34929215",
+              "subtitle_id": 10911649,
+              "translation_needed": false,
+              "year": 2025,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "10003035",
+              "subtitle_release": "Reacher.S03E06.1080p.WEB.H264-SuccessfulCrab"
+            },
+            {
+              "number": 7,
+              "title": "L.A. Story",
+              "imdb_id": "tt34929210",
+              "subtitle_id": 10932683,
+              "translation_needed": false,
+              "year": 2025,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "10024201",
+              "subtitle_release": "Reacher.S03E07.1080p.WEB.H264-SuccessfulCrab"
+            },
+            {
+              "number": 8,
+              "title": "Unfinished Business",
+              "imdb_id": "tt34929213",
+              "subtitle_id": 10947286,
+              "translation_needed": false,
+              "year": 2025,
+              "subtitle_source_language": "pl",
+              "subtitle_result_id": "10038873",
+              "subtitle_release": "Reacher.S03E08.1080p.WEB.H264-SuccessfulCrab"
             }
           ]
         }
